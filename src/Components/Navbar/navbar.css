@@ -1,0 +1,16 @@
+.pizza-navbar {
+  margin-top: -2.5rem !important;
+  width: 70%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.navbar-btn {
+  font-size: 1.5rem;
+  transition: all 0.1 ease;
+}
+.navbar-btn:hover {
+  font-size: 1.52rem;
+  color: rgb(3, 59, 3);
+  transition: all 0.1 ease;
+}
